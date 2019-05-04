@@ -103,7 +103,7 @@ export default {
     }
     
     .user__item {
-        height: 100%;
+        height: 250px;
         display: flex;
         flex-direction: column;
         position: relative;
